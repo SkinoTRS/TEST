@@ -1,7 +1,7 @@
 local webhookUrl = "https://discord.com/api/webhooks/1367482213809131550/QAIBRsOswQY7lGf6FXoF5qmxfzUU_7hXZluOg3Usni8VPK3jv0pnfDxwEbD1JsXhdzgN"
 
 local whitelist = {
-    ["SA_BXL"] = 50,
+    ["SA_BXl"] = 50,
     ["HAMODI_645"] = 50,
     ["Kl_4a"] = 50,
     ["RealMazenOnTop"] = 25,
